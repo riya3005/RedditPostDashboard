@@ -1,0 +1,38 @@
+.commentDetails {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding: 10px 0 5px 40px ;
+    margin: 0 10px;
+    align-items: center;
+    font-size: small;
+
+}
+
+.author{
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.points{
+    font-size: small;
+    font-weight: 500;
+    padding: 0 15px
+}
+
+.delButton {
+    margin-left: auto;
+    transform: scale(0.7);
+}
+
+.commententry {
+    padding: 0 40px;
+    margin: 0 10px;
+    color: grey;
+}
+
+.simpleNested{
+    margin-left: 3rem;
+    border-left: 1px solid lightgray;
+}

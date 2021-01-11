@@ -1,0 +1,22 @@
+.post{
+    border-radius: 15px;
+    color: grey;
+    background-color:gainsboro;
+    font-size: medium;
+    font-weight:450;
+    padding: 15px 40px;
+    margin: 10px;
+}
+
+.noOfComments{
+    color: black;
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+}
+
+.commentIcon {
+    transform: scale(0.8);
+    padding-right: 5px;
+}
